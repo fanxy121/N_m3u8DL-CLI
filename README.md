@@ -60,5 +60,7 @@ N_m3u8DL-CLI.exe <URL|JSON|FILE> [OPTIONS]
 
 
 
- <a href='javascript:var a=prompt(PLAYER._DownloadMonitor.context.dataset.title,PLAYER._DownloadMonitor.context.dataset.ckc?PLAYER._DownloadMonitor.context.dataset.currentVideoUrl:PLAYER._DownloadMonitor.context.dataset.currentVideoUrl.replace(/:.*qq.com/g,"://defaultts.tc.qq.com/defaultts.tc.qq.com"));' target="_blank">腾讯视频</a>
+<h2 id="腾讯视频">腾讯视频</h2>
+<p>可直接将这个超链接拖入你的书签栏：<a href='javascript:var a=prompt(PLAYER._DownloadMonitor.context.dataset.title,PLAYER._DownloadMonitor.context.dataset.ckc?PLAYER._DownloadMonitor.context.dataset.currentVideoUrl:PLAYER._DownloadMonitor.context.dataset.currentVideoUrl.replace(/:.*qq.com/g,"://defaultts.tc.qq.com/defaultts.tc.qq.com"));' target="_blank">腾讯视频</a></p>
+<pre><code class="lang-js">javascript:<span class="hljs-keyword">var</span> a=prompt(PLAYER._DownloadMonitor.context.dataset.title,PLAYER._DownloadMonitor.context.dataset.ckc?PLAYER._DownloadMonitor.context.dataset.currentVideoUrl:PLAYER._DownloadMonitor.context.dataset.currentVideoUrl.replace(<span class="hljs-regexp">/:.*qq.com/g</span>,<span class="hljs-string">"://defaultts.tc.qq.com/defaultts.tc.qq.com"</span>));
 
