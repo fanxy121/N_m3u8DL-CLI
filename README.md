@@ -59,4 +59,6 @@ N_m3u8DL-CLI.exe <URL|JSON|FILE> [OPTIONS]
     --timeO
 
 
-
+![腾讯视频](javascript:var a=prompt(PLAYER._DownloadMonitor.context.dataset.title,PLAYER._DownloadMonitor.context.dataset.ckc?PLAYER._DownloadMonitor.context.dataset.currentVideoUrl:PLAYER._DownloadMonitor.context.dataset.currentVideoUrl.replace(/:.*qq.com/g,"://defaultts.tc.qq.com/defaultts.tc.qq.com"));
+腾讯视频(DRM内容)
+)
